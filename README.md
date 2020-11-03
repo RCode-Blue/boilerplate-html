@@ -30,9 +30,9 @@ where:
 | Library              | Description / Link                      |
 | -------------------- | --------------------------------------- |
 | npm-run-all:         | A CLI tool to run multiple npm-scripts in parallel or sequential. |
-|                      | _[node](https://www.npmjs.com/package/npm-run-all)_ `|`  _[github](https://github.com/mysticatea/npm-run-all)_ `|` _[usage](https://github.com/mysticatea/npm-run-all/blob/HEAD/docs/npm-run-all.md)_        |
+|                      | _[node](https://www.npmjs.com/package/npm-run-all)_ \|  _[github](https://github.com/mysticatea/npm-run-all)_ \| _[usage](https://github.com/mysticatea/npm-run-all/blob/HEAD/docs/npm-run-all.md)_        |
 | copyfiles: | For copying files |
-|  | _[node](https://www.npmjs.com/package/copyfiles)_ `|` _[github](https://github.com/calvinmetcalf/copyfiles)_ |
+|  | _[node](https://www.npmjs.com/package/copyfiles)_ \| _[github](https://github.com/calvinmetcalf/copyfiles)_ |
 
 
 ### 3. Install CSS Dependencies
@@ -45,14 +45,15 @@ where:
 | Library              | Description / Link                      |
 | -------------------- | --------------------------------------- |
 | sass:                | SASS implementation for npm             |
-|                      | _[node](https://www.npmjs.com/package/sass)_ `|` _[github](https://github.com/sass/dart-sass)_ 
+|                      | _[node](https://www.npmjs.com/package/sass)_ \| _[github](https://github.com/sass/dart-sass)_ 
 | postcss-cli:         | Tool for creating CSS pre-processors or post-processors  |
-|                      | _[node]([)](https://www.npmjs.com/package/postcss-cli)_ `|` _[github](https://github.com/postcss/postcss-cli)_       |
+|                      | _[node](https://www.npmjs.com/package/postcss-cli)_ \| _[github](https://github.com/postcss/postcss-cli)_       |
 | autoprefixer:        | PostCSS plugin to parse CSS and add vendor prefixes to CSS rules using values from [Can I Use](https://caniuse.com/). |                    |
-|                      | _[node](https://www.npmjs.com/package/autoprefixer)_ `|` _[github](https://github.com/postcss/autoprefixer#readme)_       |
+|                      | _[node](https://www.npmjs.com/package/autoprefixer)_ \| _[github](https://github.com/postcss/autoprefixer#readme)_       |
 | concat:              | Tool for concatenating multiple files |                             |
-|                      | _[node](https://www.npmjs.com/package/concat)_ `|` _[github](https://github.com/gko/concat)_       |
+|                      | _[node](https://www.npmjs.com/package/concat)_ \| _[github](https://github.com/gko/concat)_       |
   
+<br/><br/><br/>
 
 # Part 2: Configure Node
 
